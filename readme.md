@@ -1,3 +1,5 @@
+##This immplementaion of KL divergance to use the cosed form Gaussian distribuation to calculate the density of two subsequances. No garantie of resut. This work is done in 10 dayes as a PhD. assigment. 
+
 #to run the code you need to install the follwing python packegs: 
 sklearn
  pandas
