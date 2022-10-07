@@ -1,6 +1,6 @@
 ## KL divergance with closed form Gaussian distribuation
 
-##This immplementaion of KL divergancebased on closed form Gaussian distribuation to calculate the density of two subsequances. 
+This immplementaion of KL divergancebased on closed form Gaussian distribuation to calculate the density of two subsequances. 
 No garantie of resut.
 This work is done in 10 dayes as a PhD. assigment. 
 
